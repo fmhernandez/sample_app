@@ -5,13 +5,19 @@ class PagesController < ApplicationController
 
   def contact
     @title = "Contact"
+   
   end
 
   def about
     @title = "About"
   end
   def help
+<<<<<<< HEAD
     @title = "Help"
   end
 
+=======
+    @title = "Helpx"
+  end
+>>>>>>> filling-in-layout
 end
