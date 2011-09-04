@@ -12,12 +12,7 @@ class PagesController < ApplicationController
     @title = "About"
   end
   def help
-<<<<<<< HEAD
     @title = "Help"
   end
 
-=======
-    @title = "Helpx"
-  end
->>>>>>> filling-in-layout
 end
